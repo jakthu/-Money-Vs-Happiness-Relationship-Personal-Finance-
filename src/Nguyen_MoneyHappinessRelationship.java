@@ -1,10 +1,5 @@
-/* IDE: Eclipse
- * Andrew Nguyen
- * CS2336.005
- * Semester: Fall 2016
- * Term Project
+/* 
  * This program helps the user learn more about his/her relationship with money. The contents are thoroughly explained within the program when it is run.
- * 
  */
 
 import java.util.Scanner;
